@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.1)  24 MAY 2026 16:07
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.1)  24 MAY 2026 16:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -110,65 +110,141 @@ File: gloss-english.ldf polyglossia: module for English
 )
 
 Package fontspec Info: 
-(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
-(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)             Font family 'cmunrm.otf(0)' created for font
+(fontspec)             'cmunrm.otf' with options [Ligatures=TeX,ItalicFont =
+(fontspec)             cmunti.otf,BoldFont = cmunbx.otf,BoldItalicFont =
+(fontspec)             cmunbi.otf].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
-
-
-
-Package fontspec Info: 
-(fontspec)             Courier New scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New/B scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New/I scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New/BI scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
-(fontspec)             New' with options
-(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
-Space,Scale=0.9].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[0.9]"Courier
-(fontspec)             New/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[0.9]"Courier
-(fontspec)             New/B/OT:script=latn;language=dflt;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[0.9]"Courier
-(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[cmunrm.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[cmunrm.otf]/OT:script=latn;language=dflt;+smcp;mapp
+ing=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[cmunbx.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[cmunbx.otf]/OT:script=latn;language=dflt;+smcp;mapp
+ing=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[cmunti.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.9]"Courier
-(fontspec)             New/BI/OT:script=latn;language=dflt;"
+(fontspec)             <->"[cmunbi.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
 
 
 Package fontspec Info: 
-(fontspec)             Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             Font family 'cmunss.otf(0)' created for font
+(fontspec)             'cmunss.otf' with options [Ligatures=TeX,ItalicFont =
+(fontspec)             cmunsi.otf,BoldFont = cmunsx.otf,BoldItalicFont =
+(fontspec)             cmunso.otf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[cmunss.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[cmunsx.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[cmunsi.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[cmunso.otf]/OT:script=latn;language=dflt;mapping=te
+x-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'cmuntt.otf(0)' created for font
+(fontspec)             'cmuntt.otf' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,ItalicFont
+(fontspec)             = cmunit.otf,BoldFont = cmuntb.otf,BoldItalicFont =
+(fontspec)             cmuntx.otf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[cmuntt.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[cmuntb.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[cmunit.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[cmuntx.otf]/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'cmunrm.otf(1)' created for font
+(fontspec)             'cmunrm.otf' with options [ItalicFont =
+(fontspec)             cmunti.otf,BoldFont = cmunbx.otf,BoldItalicFont =
+(fontspec)             cmunbi.otf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[cmunrm.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[cmunrm.otf]/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[cmunbx.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[cmunbx.otf]/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[cmunti.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[cmunbi.otf]/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'cmunss.otf(1)' created for font
+(fontspec)             'cmunss.otf' with options [ItalicFont =
+(fontspec)             cmunsi.otf,BoldFont = cmunsx.otf,BoldItalicFont =
+(fontspec)             cmunso.otf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[cmunss.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[cmunsx.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[cmunsi.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[cmunso.otf]/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'cmuntt.otf(1)' created for font
+(fontspec)             'cmuntt.otf' with options [ItalicFont =
+(fontspec)             cmunit.otf,BoldFont = cmuntb.otf,BoldItalicFont =
+(fontspec)             cmuntx.otf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[cmuntt.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[cmuntb.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[cmunit.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[cmuntx.otf]/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -184,60 +260,11 @@ Package fontspec Info:
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;"
 
 
-Package fontspec Info: 
-(fontspec)             Font family 'Helvetica(0)' created for font 'Helvetica'
-(fontspec)             with options [].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Helvetica/AAT"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Helvetica/B/AAT"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Helvetica/I/AAT"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"Helvetica/BI/AAT"
-
-
-Package fontspec Info: 
-(fontspec)             Courier New scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New/B scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New/I scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Courier New/BI scale = 0.9.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'CourierNew(1)' created for font 'Courier
-(fontspec)             New' with options [Scale=0.9].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[0.9]"Courier
-(fontspec)             New/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[0.9]"Courier
-(fontspec)             New/B/OT:script=latn;language=dflt;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[0.9]"Courier
-(fontspec)             New/I/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.9]"Courier
-(fontspec)             New/BI/OT:script=latn;language=dflt;"
-
- (/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/newunicodechar/newunicodecha
+r.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
@@ -1100,30 +1127,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip127
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 67.
+Package hyperref Info: Option `colorlinks' set `false' on input line 80.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1131,65 +1158,67 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 169.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 169.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 169.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 169.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 169.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 169.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 169.
-LaTeX Font Info:    Redeclaring math accent \check on input line 169.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 169.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 169.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 169.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 169.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 169.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 182.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 182.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 182.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 182.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 182.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 182.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 182.
+LaTeX Font Info:    Redeclaring math accent \check on input line 182.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 182.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 182.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 182.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 182.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 169.
+(Font)              `operators' in the math version `normal' on input line 182.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
-69.
+(Font)                  OT1/cmr/m/n --> TU/cmunrm.otf(0)/m/n on input line 182.
+
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 169.
+(Font)              `operators' in the math version `bold' on input line 182.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-169.
+(Font)                  OT1/cmr/bx/n --> TU/cmunrm.otf(0)/m/n on input line 182
+.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 169.
+(Font)                  TU/cmunrm.otf(0)/m/n --> TU/cmunrm.otf(0)/m/n on input 
+line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 169.
+(Font)                  OT1/cmr/m/it --> TU/cmunrm.otf(0)/m/it on input line 18
+2.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-169.
+(Font)                  OT1/cmr/bx/n --> TU/cmunrm.otf(0)/b/n on input line 182
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 169.
+(Font)                  OT1/cmss/m/n --> TU/cmunss.otf(0)/m/n on input line 182
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 169
+(Font)                  OT1/cmtt/m/n --> TU/cmuntt.otf(0)/m/n on input line 182
 .
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 169.
+(Font)                  TU/cmunrm.otf(0)/m/n --> TU/cmunrm.otf(0)/b/n on input 
+line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 169.
+(Font)                  OT1/cmr/bx/it --> TU/cmunrm.otf(0)/b/it on input line 1
+82.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 169.
+(Font)                  OT1/cmss/bx/n --> TU/cmunss.otf(0)/b/n on input line 18
+2.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 169
+(Font)                  OT1/cmtt/m/n --> TU/cmuntt.otf(0)/b/n on input line 182
 .
 
 *geometry* driver: auto-detecting
@@ -1236,7 +1265,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count400
-Package hyperref Info: Link coloring OFF on input line 169.
+Package hyperref Info: Link coloring OFF on input line 182.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1247,58 +1276,52 @@ File: must_logo.png Graphic file (type bmp)
  [1
 
 ] [1]
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
+Underfull \hbox (badness 10000) in paragraph at lines 261--264
 
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 252--253
-\TU/TimesNewRoman(1)/m/n/10.95 web интерфейсээр алсаас удирдах боломжтой IoT-д 
-суурилсан ухаалаг систем боловсруулахад
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
-[1] [2]
-Underfull \hbox (badness 4391) in paragraph at lines 304--311
-\TU/TimesNewRoman(1)/m/n/12 Сэдвийн монгол нэр: ``IoT технологид суурилсан гэри
-йн тэжээвэр амьтны ухаалаг
+[1]
+Overfull \hbox (15.19612pt too wide) in paragraph at lines 336--336
+ []|\TU/cmunrm.otf(1)/b/n/12 Гүйцэтгэлийн 
  []
 
 
-Overfull \hbox (5.30367pt too wide) in paragraph at lines 322--322
- []|\TU/TimesNewRoman(1)/b/n/12 Гүйцэтгэлийн 
- []
-
-
-Overfull \hbox (28.45274pt too wide) in paragraph at lines 322--323
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 336--337
 [][] 
  []
 
-[3]
-Underfull \hbox (badness 4279) in paragraph at lines 345--346
-\TU/TimesNewRoman(1)/m/n/12 Миний бие Е.Жанна, ``IoT технологид суурилсан гэрий
-н тэжээвэр амьтны ухаалаг
+[2]
+Underfull \hbox (badness 1189) in paragraph at lines 359--360
+\TU/cmunrm.otf(1)/m/n/12 хооллолтын систем'' сэдэвт энэхүү төгсөлтийн ажил нь м
+иний өөрийн хийсэн
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 359--360
+\TU/cmunrm.otf(1)/m/n/12 судалгаа, туршилт, хэрэгжилтэд тулгуурласан болохыг ба
+талж байна. Ажилд
  []
 
 [1
 
 ]
-Underfull \hbox (badness 2343) in paragraph at lines 374--375
-\TU/TimesNewRoman(1)/m/n/12 Firebase status update, web interface-ийн ажиллагаа
-г туршсан. Туршилтын үр дүнгээс
+Underfull \hbox (badness 5893) in paragraph at lines 386--387
+[]\TU/cmunrm.otf(1)/m/n/12 Төслийн явцад IoT системийн онол, ижил төрлийн smart
+ pet feeder
  []
 
-[2]
-Underfull \hbox (badness 2401) in paragraph at lines 388--389
-\TU/TimesNewRoman(1)/m/n/12 Тэдний дэмжлэг нь төхөөрөмжийн туршилт, бичвэрийн б
-оловсруулалт, хамгаалалтын
+
+Underfull \hbox (badness 2717) in paragraph at lines 386--387
+\TU/cmunrm.otf(1)/m/n/12 төхөөрөмжүүд, микроконтроллерийн сонголт, моторын төрл
+үүд, cloud өгөгдөл
  []
 
-[3] [4] (./main.toc [5])
+[2] [3] [4] (./main.toc [5])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1319,717 +1342,580 @@ Underfull \hbox (badness 2401) in paragraph at lines 388--389
 [1
 
 
-] [2]
-Underfull \hbox (badness 3746) in paragraph at lines 446--447
-[]\TU/TimesNewRoman(1)/m/n/12 Төслийн үндсэн асуудлыг дараах байдлаар тодорхойл
-сон. Нэгдүгээрт, тэжээвэр
+]
+Underfull \hbox (badness 1694) in paragraph at lines 456--457
+[]\TU/cmunrm.otf(1)/m/n/12 Энэ төслийг сонгосон шалтгаан нь IoT технологийг өдө
+р тутмын бодит
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 446--447
-\TU/TimesNewRoman(1)/m/n/12 амьтанд хоол өгөх ажиллагааг тогтмол, давтагдах бол
-омжтой болгох шаардлагатай.
+Underfull \hbox (badness 1205) in paragraph at lines 458--459
+\TU/cmunrm.otf(1)/m/n/12 хэрэглэгч төхөөрөмжийн ойролцоох байдлыг алсаас харах 
+боломжтой байх нь
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
-\TU/TimesNewRoman(1)/m/n/12 Хоёрдугаарт, ус өгөх үйлдлийг хоолноос тусдаа удирд
-ах хэрэгтэй. Гуравдугаарт,
+Underfull \hbox (badness 1762) in paragraph at lines 458--459
+\TU/cmunrm.otf(1)/m/n/12 итгэлцлийг нэмэгдүүлнэ. Дөрөвдүгээрт, web интерфейс бо
+лон cloud өгөгдлийн
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
-\TU/TimesNewRoman(1)/m/n/12 нэмэгдүүлнэ. Дөрөвдүгээрт, web интерфейс болон clou
-d өгөгдлийн сан ашиглан
+Underfull \hbox (badness 2591) in paragraph at lines 462--463
+\TU/cmunrm.otf(1)/m/n/12 удирдах, камерын зураг ашиглан нөхцөл байдлыг харах бо
+ломжтой ухаалаг
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--458
-[]\TU/TimesNewRoman(1)/m/n/12 ESP32, ESP32-CAM, stepper мотор, насос, RTC, Fire
-base, Cloudinary зэрэг
- []
-
-[3]
-Underfull \hbox (badness 1424) in paragraph at lines 466--467
-\TU/TimesNewRoman(1)/m/n/12 болон удирдлагын өгөгдлийг цуглуулах, дамжуулах, бо
-ловсруулах, хэрэглэгчид хүргэх
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+[]\TU/cmunrm.otf(1)/m/n/12 IoT системийн онолын үндэс, ухаалаг тэжээвэр амьтны 
+тэжээгч
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 468--469
-[]\TU/TimesNewRoman(1)/m/n/12 Энэхүү төслийн хувьд мэдрэх болон хяналтын хэсэгт
- ESP32-CAM, RTC болон
+Underfull \hbox (badness 2582) in paragraph at lines 471--472
+[]\TU/cmunrm.otf(1)/m/n/12 ESP32-CAM-аар авсан зургийг Cloudinary-д хадгалж, UR
+L-ийг Firebase
+ []
+
+[2]
+Underfull \hbox (badness 7888) in paragraph at lines 473--474
+[]\TU/cmunrm.otf(1)/m/n/12 Системийн туршилтыг хийж, үр дүнг хүснэгт, тайлбар, 
+дүгнэлтээр
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 478--479
+\TU/cmunrm.otf(1)/m/n/12 IoT буюу Internet of Things нь физик төхөөрөмжүүдийг и
+нтернет сүлжээнд
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 480--481
+[]\TU/cmunrm.otf(1)/m/n/12 Энэхүү төслийн хувьд мэдрэх болон хяналтын хэсэгт ES
+P32-CAM, RTC
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 480--481
+\TU/cmunrm.otf(1)/m/n/12 болон төхөөрөмжийн төлөвийн мэдээлэл орно. Боловсруула
+х хэсэг нь ESP32
  []
 
 File: iot_structure.png Graphic file (type bmp)
 <iot_structure.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
-[]\TU/TimesNewRoman(1)/m/n/12 IoT системийн гол онцлог нь төхөөрөмжүүд хоорондо
-о өгөгдөл солилцож,
+Underfull \hbox (badness 2042) in paragraph at lines 484--485
+\TU/cmunrm.otf(1)/m/n/12 интерфейсээр төхөөрөмжийн төлөвийг харах, feed эсвэл d
+rink command өгөх,
  []
 
-
-Underfull \hbox (badness 4316) in paragraph at lines 472--473
-\TU/TimesNewRoman(1)/m/n/12 оршино. Энэ төслийн хувьд хэрэглэгч гэртээ байхгүй 
-байсан ч web интерфейсээр
+[3]
+Underfull \hbox (badness 2181) in paragraph at lines 486--486
+|[]\TU/cmunrm.otf(1)/b/n/14.4 Ухаалаг тэжээвэр амьтны тэжээгч төхөөрөмжүүдийн
  []
 
-[4]
 File: pet_feeder_examples.png Graphic file (type bmp)
 <pet_feeder_examples.png>
 
-Underfull \hbox (badness 1874) in paragraph at lines 480--481
-[]\TU/TimesNewRoman(1)/m/n/12 Гэвч эдгээр төхөөрөмжүүдийг судлахад хэд хэдэн ни
-йтлэг сул тал ажиглагдсан.
+Underfull \hbox (badness 1406) in paragraph at lines 492--493
+\TU/cmunrm.otf(1)/m/n/12 хэрэглэгч өөрийн хүссэнээр код, database, hardware-ийг
+ өөрчлөх боломж бага.
  []
 
 
-Underfull \hbox (badness 7595) in paragraph at lines 480--481
-\TU/TimesNewRoman(1)/m/n/12 Нэгдүгээрт, commercial төхөөрөмжүүд ихэвчлэн хаалтт
-ай ecosystem-той байдаг тул
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\TU/cmunrm.otf(1)/m/n/8 Хаалттай платформтой,
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 480--481
-\TU/TimesNewRoman(1)/m/n/12 зарим төхөөрөмж зөвхөн хоол өгөх функцтэй бөгөөд ус
-ны систем тусдаа байдаг.
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\TU/cmunrm.otf(1)/m/n/8 Wi-Fi болон web/cloud
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--493
-[]|\TU/TimesNewRoman(1)/m/n/8 Зөвхөн цагийн тохиргоотой,
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\TU/cmunrm.otf(1)/m/n/8 интеграц нэмэлт модуль
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 493--493
-[]|\TU/TimesNewRoman(1)/m/n/8 Хаалттай платформтой, өөрчлөх
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\TU/cmunrm.otf(1)/m/n/8 Цаашид механик корпус
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 493--493
-[]|\TU/TimesNewRoman(1)/m/n/8 Цаашид механик корпус болон
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\TU/cmunrm.otf(1)/m/n/8 болон мэдрэгчийн
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--493
-\TU/TimesNewRoman(1)/m/n/8 мэдрэгчийн хэмжилтийг нэмэх
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\TU/cmunrm.otf(1)/m/n/8 хэмжилтийг нэмэх
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/b/n/8 Энэ төсөлд тохирох
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Сурахад хялбар, олон
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 хийхэд нэмэлт модуль
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Зөвхөн энгийн мотор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 удирдлагад тохиромжтой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 GPIO хязгаарлагдмал,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 камерын тусдаа шийдэл
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Энгийн web control
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 хийхэд боломжтой боловч
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 олон хэсэгтэй системд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Wi-Fi/Bluetooth дэмждэг,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 GPIO олон, гүйцэтгэл
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 сайн, IoT төсөлд өргөн
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Power болон pin зохион
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 байгуулалтыг зөв хийх
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Энэ төслийн үндсэн
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 удирдлагад хамгийн
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Өндөр хүчин чадалтай,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 Linux орчинтой, камер
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 их, жижиг embedded
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 төхөөрөмжид хэт томдож
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\TU/cmunrm.otf(1)/m/n/8 Судалгааны сервер талд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 боломжтой боловч энэ
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 523--523
+\TU/cmunrm.otf(1)/m/n/8 системийн төв удирдлагад
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Сурахад хялбар, олон
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 жишээтэй, GPIO удирдахад
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 хийхэд нэмэлт модуль
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Зөвхөн энгийн мотор
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 удирдлагад тохиромжтой,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 GPIO хязгаарлагдмал,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 камерын тусдаа шийдэл
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Энгийн web control
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 хийхэд боломжтой боловч
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 олон хэсэгтэй системд
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Wi-Fi/Bluetooth дэмждэг,
- []
-
-
-Underfull \hbox (badness 4832) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 GPIO олон, гүйцэтгэл сайн,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Power болон pin зохион
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 байгуулалтыг зөв хийх
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Энэ төслийн үндсэн
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 удирдлагад хамгийн
- []
-
-
-Underfull \hbox (badness 5345) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 орчинтой, камер болон web
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Өртөг өндөр, power хэрэглээ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 их, жижиг embedded
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 төхөөрөмжид хэт томдож
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-[]|\TU/TimesNewRoman(1)/m/n/8 Судалгааны сервер талд
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 боломжтой боловч энэ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--511
-\TU/TimesNewRoman(1)/m/n/8 системийн төв удирдлагад
- []
-
 File: esp32_cam.png Graphic file (type bmp)
 <esp32_cam.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Өнцгөөр удирдахад
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 энгийн, жижиг механизмд
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Эргэлтийн хязгаарлагдмал
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 өнцөгтэй, ачаалал их үед
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Энгийн хаалт нээхэд
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 боломжтой боловч хоолны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 хэмжээг алхамчилж
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Эргэлт хурдан, үнэ хямд,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Байрлалын нарийвчлал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 бага, эргэлтийн хэмжээг
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 feedback-гүйгээр хянахад
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Хоол гаргах хэмжээг
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 эргэлтийн хэмжээг илүү
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Driver шаарддаг, power
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 550--550
+[]|\TU/cmunrm.otf(1)/m/n/8 Энэ төслийн хоол гаргах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+\TU/cmunrm.otf(1)/m/n/8 механизмд хамгийн
+ []
+
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Өнцгөөр удирдахад
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
+[]\TU/cmunrm.otf(1)/m/n/12 Усны системийг хоолны системээс тусдаа удирдахаар тө
+лөвлөсөн нь
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 энгийн, жижиг механизмд
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\TU/cmunrm.otf(1)/b/n/12 Firebase Realtime
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Эргэлтийн хязгаарлагдмал
+Underfull \hbox (badness 5533) in paragraph at lines 577--577
+[]|\TU/cmunrm.otf(1)/m/n/12 Command, status, URL,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 өнцөгтэй, ачаалал их үед
+Underfull \hbox (badness 1565) in paragraph at lines 577--577
+\TU/cmunrm.otf(1)/m/n/12 timestamp зэрэг realtime
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Энгийн хаалт нээхэд
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\TU/cmunrm.otf(1)/m/n/12 Камерын зураг буюу
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 боломжтой боловч хоолны
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\TU/cmunrm.otf(1)/m/n/12 ESP32-CAM-аас авсан
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Эргэлт хурдан, үнэ хямд,
+Underfull \hbox (badness 5533) in paragraph at lines 577--577
+[]|\TU/cmunrm.otf(1)/m/n/12 Realtime update хийхэд
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Байрлалын нарийвчлал бага,
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
+[]|\TU/cmunrm.otf(1)/m/n/12 Зураг хадгалах, URL
  []
 
-
-Underfull \hbox (badness 4291) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 эргэлтийн хэмжээг feedback-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Хоол гаргах хэмжээг
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 тогтвортой болгоход нэмэлт
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Алхамчилсан удирдлагатай,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 эргэлтийн хэмжээг илүү
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-[]|\TU/TimesNewRoman(1)/m/n/8 Энэ төслийн хоол гаргах
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
-\TU/TimesNewRoman(1)/m/n/8 механизмд хамгийн
- []
-
-[7]
-Underfull \hbox (badness 1132) in paragraph at lines 549--550
-\TU/TimesNewRoman(1)/m/n/12 Энэ төслийн нэг чухал хэсэг нь төхөөрөмжийн мэдээлл
-ийг web interface болон cloud
- []
-
-
-Underfull \hbox (badness 2662) in paragraph at lines 551--552
-[]\TU/TimesNewRoman(1)/m/n/12 Firebase Realtime Database-ийг сонгосон шалтгаан 
-нь өгөгдөл realtime байдлаар
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
-[]|\TU/TimesNewRoman(1)/m/n/12 Command, status, URL,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
-\TU/TimesNewRoman(1)/m/n/12 timestamp зэрэг realtime
- []
-
-
-Underfull \hbox (badness 4899) in paragraph at lines 565--565
-[]|\TU/TimesNewRoman(1)/m/n/12 Текст, тоо, boolean, URL,
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 565--565
-[]|\TU/TimesNewRoman(1)/m/n/12 Зураг, video болон media
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
-[]|\TU/TimesNewRoman(1)/m/n/12 ESP32-CAM-аас авсан
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
-[]|\TU/TimesNewRoman(1)/m/n/12 Realtime update хийхэд
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
-[]|\TU/TimesNewRoman(1)/m/n/12 Зураг хадгалах, URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
-\TU/TimesNewRoman(1)/m/n/12 Энэхүү бүлэгт IoT системийн онолын үндэс, тэжээвэр 
-амьтны ухаалаг тэжээгч
- []
-
-[8]
+[7] [8]
 Бүлэг 2.
 [9
 
-] [10]
-Underfull \hbox (badness 1859) in paragraph at lines 578--579
-\TU/TimesNewRoman(1)/m/n/12 Системийн зохион байгуулалтыг боловсруулахдаа хэрэг
-лэгчийн бодит хэрэгцээ болон
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 593--593
-[]|\TU/TimesNewRoman(1)/m/n/8 ESP32-CAM зураг авч Cloudinary-д хадгалж, web дээ
-р
- []
-
-
-Underfull \hbox (badness 2460) in paragraph at lines 593--593
-[]|\TU/TimesNewRoman(1)/m/n/8 Firebase Realtime Database-д command, status, fra
-me URL,
+]
+Underfull \hbox (badness 10000) in paragraph at lines 604--604
+[]|\TU/cmunrm.otf(1)/m/n/8 Drink command ирэхэд насос тодорхой хугацаанд
  []
 
 File: system_architecture.png Graphic file (type bmp)
 <system_architecture.png>
-[11]
-LaTeX Font Info:    Font shape `TU/CourierNew(1)/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 602.
 
-Underfull \hbox (badness 4765) in paragraph at lines 622--622
-[]|\TU/TimesNewRoman(1)/m/n/8 Камерын зураг авах, Cloudinary руу frame upload х
-ийх,
+Underfull \hbox (badness 1881) in paragraph at lines 613--614
+[]\TU/cmunrm.otf(1)/m/n/12 Системийн ажиллагааг дараах дарааллаар ойлгож болно.
+ Хэрэглэгч web
+ []
+
+[10]
+Underfull \hbox (badness 2005) in paragraph at lines 633--633
+[]|\TU/cmunrm.otf(1)/m/n/8 Төв удирдлагын хэсэг. Feed, drink command унших,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 622--622
-[]|\TU/TimesNewRoman(1)/m/n/8 Хоол гаргах механизмыг алхамчилсан хөдөлгөөнөөр
+Underfull \hbox (badness 1552) in paragraph at lines 633--633
+\TU/cmunrm.otf(1)/m/n/8 stepper motor, насос, RTC болон Firebase холболтыг
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 622--622
-[]|\TU/TimesNewRoman(1)/m/n/8 Цагийн хуваарьтай автомат хооллолтын үед бодит ца
-гийн
+Underfull \hbox (badness 4479) in paragraph at lines 633--633
+[]|\TU/cmunrm.otf(1)/m/n/8 Хоол гаргах механизмыг алхамчилсан хөдөлгөөнөөр
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 622--622
-[]|\TU/TimesNewRoman(1)/m/n/8 Command, status, frame URL, timestamp зэрэг өгөгд
-лийг
+Underfull \hbox (badness 1852) in paragraph at lines 633--633
+[]|\TU/cmunrm.otf(1)/m/n/8 Камерын frame зургийг cloud орчинд хадгалж URL
  []
 
-
-Underfull \hbox (badness 2334) in paragraph at lines 627--628
-\TU/TimesNewRoman(1)/m/n/12 савны налуу, бөглөрөх магадлал, моторын эргэх хүч, 
-давталтын тогтвортой байдлыг
- []
-
-[12]
 File: stepper_motor.jpg Graphic file (type bmp)
 <stepper_motor.jpg>
-
-Underfull \hbox (badness 2035) in paragraph at lines 633--634
-\TU/TimesNewRoman(1)/m/n/12 хугацаанд ажиллаж, усны савнаас усыг амьтны уух хэс
-эг рүү шахаж гаргана. Усны
- []
-
+[11]
 File: water_system.png Graphic file (type bmp)
 <water_system.png>
-[13]
 File: cloudinary.png Graphic file (type bmp)
 <cloudinary.png>
+
+Underfull \hbox (badness 2744) in paragraph at lines 654--655
+[]\TU/cmunrm.otf(1)/m/n/12 ESP32-CAM зураг авсны дараа тухайн frame Cloudinary-
+д хадгалагдаж,
+ []
+
 File: cloudinary_firebase_flow.png Graphic file (type bmp)
 <cloudinary_firebase_flow.png>
- [14]
-Underfull \hbox (badness 10000) in paragraph at lines 664--664
-[]|\TU/TimesNewRoman(1)/m/n/8 ESP32-CAM модулийн сүлжээнд холбогдсон IP хаягийг
-
+[12]
+Underfull \hbox (badness 1077) in paragraph at lines 675--675
+[]|\TU/cmunrm.otf(1)/m/n/8 Хэрэглэгчийн web interface-ээс өгсөн feed эсвэл drin
+k
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--664
-[]|\TU/TimesNewRoman(1)/m/n/8 Хэрэглэгчийн web interface-ээс өгсөн feed эсвэл d
-rink
- []
-
-
-Underfull \hbox (badness 6188) in paragraph at lines 664--664
-[]|\TU/TimesNewRoman(1)/m/n/8 Cloudinary дээр хадгалагдсан хамгийн сүүлийн каме
-рын
- []
-
-
-Underfull \hbox (badness 7116) in paragraph at lines 664--664
-[]|\TU/TimesNewRoman(1)/m/n/8 Хамгийн сүүлд зураг авсан хугацааны timestamp утг
-ыг
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
+[]|\TU/cmunrm.otf(1)/m/n/8 Төхөөрөмжийн тухайн үеийн төлөвийг хадгалах
  []
 
 File: firebase.png Graphic file (type bmp)
 <firebase.png>
-[15]
+[13]
 File: web.png Graphic file (type bmp)
 <web.png>
 
-Underfull \hbox (badness 3354) in paragraph at lines 697--697
-[]|\TU/TimesNewRoman(1)/m/n/8 Firebase-ийн \TU/CourierNew(1)/m/n/8 command \TU/
-TimesNewRoman(1)/m/n/8 утгыг feed action болгон өөрчилж,
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
+[]|\TU/cmunrm.otf(1)/m/n/8 Firebase дээр хадгалагдсан \TU/cmuntt.otf(1)/m/n/8 f
+rame_url\TU/cmunrm.otf(1)/m/n/8 -ийг уншиж,
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 697--697
-[]|\TU/TimesNewRoman(1)/m/n/8 Firebase-ийн \TU/CourierNew(1)/m/n/8 command \TU/
-TimesNewRoman(1)/m/n/8 утгыг drink action болгон өөрчилж,
+Underfull \hbox (badness 1838) in paragraph at lines 725--725
+[]|\TU/cmunrm.otf(1)/m/n/8 Stepper motor-ийн алхамчилсан эргэлтийн дарааллыг
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--697
-[]|\TU/TimesNewRoman(1)/m/n/8 Тэжээвэр амьтны хооллолт, усны хэрэглээ, арчилгаа
-ны
+Underfull \hbox (badness 1742) in paragraph at lines 725--725
+[]|\TU/cmunrm.otf(1)/m/n/8 Relay эсвэл transistor driver ашиглан насосыг асааж
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 714--714
-[]|\TU/TimesNewRoman(1)/m/n/8 Stepper motor-ийн алхамчилсан эргэлтийн дарааллыг
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--714
-[]|\TU/TimesNewRoman(1)/m/n/8 ESP32, driver, насос, RTC-ийн нийтлэг ground боло
-н
+Underfull \hbox (badness 1303) in paragraph at lines 725--725
+[]|\TU/cmunrm.otf(1)/m/n/8 ESP32, driver, насос, RTC-ийн нийтлэг ground болон
  []
 
 File: pet_shem.png Graphic file (type bmp)
 <pet_shem.png>
-[16]
-Underfull \hbox (badness 1436) in paragraph at lines 721--722
-\TU/TimesNewRoman(1)/m/n/12 Breadboard дээр туршилт хийх нь эхний шатанд тохиро
-мжтой боловч олон утас, сул
- []
-
+[14]
 File: pcb.png Graphic file (type bmp)
 <pcb.png>
-[17]
-Underfull \hbox (badness 4254) in paragraph at lines 727--728
-\TU/TimesNewRoman(1)/m/n/12 Төхөөрөмжийн гаднах корпус нь зөвхөн үзэмжийн элеме
-нт биш, харин системийн
- []
-
 File: 3d.jpg Graphic file (type bmp)
 <3d.jpg>
-[18] [19]
+ [15] [16]
 Бүлэг 3.
-[20
+[17
 
-] [21]
+]
 File: prototype_setup.png Graphic file (type bmp)
 <prototype_setup.png>
- [22]
+ [18]
 File: firebase.png Graphic file (type bmp)
 <firebase.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--782
+[]|\TU/cmunrm.otf(1)/m/n/8 Frame URL болон status мэдээлэл Firebase-д
+ []
+
 File: hoollolt.png Graphic file (type bmp)
 <hoollolt.png>
- [23]
-Underfull \hbox (badness 1005) in paragraph at lines 783--784
-\TU/TimesNewRoman(1)/m/n/12 Камерын туршилтаар ESP32-CAM зураг авч, Cloudinary-
-д хадгалж, URL нь Firebase-д
+[19]
+Underfull \hbox (badness 1817) in paragraph at lines 809--809
+[]|\TU/cmunrm.otf(1)/m/n/8 Frame URL болон command/status
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 Stepper motor ажиллаж хоол гаргах
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
+[]|\TU/cmunrm.otf(1)/m/n/8 Firebase дээр frame URL болон
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 Хоол гаргах механизм ажиллаж, feed
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
+[]|\TU/cmunrm.otf(1)/m/n/8 Web interface дээр зураг болон
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 Насос ажиллаж, ус жигд урсгалтай
+[20]
+Underfull \hbox (badness 1436) in paragraph at lines 829--830
+\TU/cmunrm.otf(1)/m/n/12 Туршилтын үр дүнгээс харахад системийн үндсэн функцууд
+ ажилласан. Feed
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 ESP32-CAM зураг авч Cloudinary-д
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 Frame URL болон command/status
- []
-
-
-Underfull \hbox (badness 4739) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 Хэрэглэгч camera frame болон status
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--799
-[]|\TU/TimesNewRoman(1)/m/n/8 Web interface дээр зураг болон
- []
-
-[24]
-Underfull \hbox (badness 1057) in paragraph at lines 819--820
-\TU/TimesNewRoman(1)/m/n/12 бөгөөд зурагны URL Firebase-д бүртгэгдсэн. Web inte
-rface нь Firebase-ийн мэдээллийг
- []
-
-
-Underfull \hbox (badness 3229) in paragraph at lines 823--824
-\TU/TimesNewRoman(1)/m/n/12 бүрэн хэрэгжсэн prototype гэж үзэж болох бөгөөд цаа
-шид бүтээгдэхүүний түвшинд
- []
-
-[25]
+[21]
 Бүлэг 4.
-[26
-
-] [27]
-Underfull \hbox (badness 1158) in paragraph at lines 831--832
-\TU/TimesNewRoman(1)/m/n/12 Энэхүү дипломын ажлын хүрээнд IoT технологид суурил
-сан гэрийн тэжээвэр амьтны
- []
-
-
-Underfull \hbox (badness 5231) in paragraph at lines 831--832
-\TU/TimesNewRoman(1)/m/n/12 хэсэгт IoT системийн үндсэн ойлголт, ухаалаг тэжээг
-ч төхөөрөмжүүдийн хэрэглээ,
- []
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 833--834
-[]\TU/TimesNewRoman(1)/m/n/12 Cloud шийдлийн хувьд Firebase Realtime Database б
-олон Cloudinary-г хамтад нь
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 837--838
-\TU/TimesNewRoman(1)/m/n/12 Энэхүү системийн онцлог нь зөвхөн автомат хоол өгөх
- төхөөрөмж хийхэд бус, олон
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 855--856
-\TU/TimesNewRoman(1)/m/n/12 бүрийн үндэслэлийг харьцуулж гаргасан, зохион байгу
-улалтын хэсэгт hardware, cloud,
- []
-
-[28] [29] [30
+[22
 
 ]
-Underfull \hbox (badness 2173) in paragraph at lines 865--866
-[]\TU/TimesNewRoman(1)/m/n/12 Espressif Systems. \TU/TimesNewRoman(1)/m/it/12 E
-SP32 Technical Reference Manual\TU/TimesNewRoman(1)/m/n/12 . Espressif Systems.
- Энэхүү
+Underfull \hbox (badness 1275) in paragraph at lines 840--841
+\TU/cmunrm.otf(1)/m/n/12 Энэхүү дипломын ажлын хүрээнд IoT технологид суурилсан
+ гэрийн тэжээвэр
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 865--866
-\TU/TimesNewRoman(1)/m/n/12 эх сурвалжаас ESP32 микроконтроллерийн architecture
-, peripheral, GPIO болон
+Underfull \hbox (badness 1394) in paragraph at lines 840--841
+\TU/cmunrm.otf(1)/m/n/12 амьтны ухаалаг хооллолтын системийг судалж, зохион бай
+гуулж, хэрэгжүүлж
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 867--868
-[]\TU/TimesNewRoman(1)/m/n/12 Espressif Systems. \TU/TimesNewRoman(1)/m/it/12 E
-SP32 Series Datasheet\TU/TimesNewRoman(1)/m/n/12 . Espressif Systems. ESP32-ийн
- Wi-
+Underfull \hbox (badness 1810) in paragraph at lines 840--841
+\TU/cmunrm.otf(1)/m/n/12 туршлаа. Судалгааны хэсэгт IoT системийн үндсэн ойлгол
+т, ухаалаг тэжээгч
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 867--868
-\TU/TimesNewRoman(1)/m/n/12 Fi/Bluetooth, operating voltage, GPIO боломж болон 
-IoT төхөөрөмжид ашиглах
+Underfull \hbox (badness 4886) in paragraph at lines 853--854
+[]\TU/cmunrm.otf(1)/m/n/12 Web interface-ээр feed, drink, camera, health, statu
+s хэсгийг нэгтгэсэн
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 879--880
-\TU/TimesNewRoman(1)/m/n/12 болгон ашиглах, зураг хадгалалт болон asset managem
-ent-ийн үндсэн ойлголтыг
+Underfull \hbox (badness 1270) in paragraph at lines 860--861
+\TU/cmunrm.otf(1)/m/n/12 authentication болон security rules-ийг сайжруулж, зөв
+хөн эрх бүхий хэрэглэгч
  []
 
-
-Underfull \hbox (badness 3503) in paragraph at lines 883--884
-[]\TU/TimesNewRoman(1)/m/n/12 Schwartz, M. \TU/TimesNewRoman(1)/m/it/12 Interne
-t of Things with ESP8266\TU/TimesNewRoman(1)/m/n/12 . Packt Publishing. Wi-Fi e
-nabled
+[23]
+Underfull \hbox (badness 1715) in paragraph at lines 864--865
+\TU/cmunrm.otf(1)/m/n/12 хэсэгт сонголт бүрийн үндэслэлийг харьцуулж гаргасан, 
+зохион байгуулалтын
  []
 
-
-Underfull \hbox (badness 7308) in paragraph at lines 883--884
-\TU/TimesNewRoman(1)/m/n/12 microcontroller ашиглан IoT төхөөрөмж хөгжүүлэх үнд
-сэн зарчим, web/cloud
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 887--888
-[]\TU/TimesNewRoman(1)/m/n/12 Ashton, K. ``That Internet of Things Thing.'' \TU
-/TimesNewRoman(1)/m/it/12 RFID Journal\TU/TimesNewRoman(1)/m/n/12 , 2009. IoT о
-йлголтын
- []
-
-[31]
-Underfull \hbox (badness 1681) in paragraph at lines 889--890
-[]\TU/TimesNewRoman(1)/m/n/12 Al-Fuqaha, A., Guizani, M., Mohammadi, M., Aledha
-ri, M., Ayyash, M. ``Internet
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 889--890
-\TU/TimesNewRoman(1)/m/n/12 of Things: A Survey on Enabling Technologies, Proto
-cols, and Applications.'' \TU/TimesNewRoman(1)/m/it/12 IEEE
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 891--892
-[]\TU/TimesNewRoman(1)/m/n/12 Kurose, J. F., Ross, K. W. \TU/TimesNewRoman(1)/m
-/it/12 Computer Networking: A Top-Down Approach\TU/TimesNewRoman(1)/m/n/12 . Pe
-arson.
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 897--898
-[]\TU/TimesNewRoman(1)/m/n/12 WOPET. \TU/TimesNewRoman(1)/m/it/12 Smart Pet Fee
-der Product Manual\TU/TimesNewRoman(1)/m/n/12 . App-based pet feeder-ийн camera
-,
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 903--904
-[]\TU/TimesNewRoman(1)/m/n/12 Norman, D. \TU/TimesNewRoman(1)/m/it/12 The Desig
-n of Everyday Things\TU/TimesNewRoman(1)/m/n/12 . Basic Books. Web interface бо
-лон
- []
-
-
-Underfull \hbox (badness 7362) in paragraph at lines 903--904
-\TU/TimesNewRoman(1)/m/n/12 төхөөрөмжийн хэрэглэгчдэд ойлгомжтой, хэрэглэхэд хя
-лбар байх UX санааг
- []
-
-[32] [33
+[24] [25
 
 ]
-Underfull \hbox (badness 8019) in paragraph at lines 929--929
-|[]\TU/TimesNewRoman(1)/b/n/14.4 Төслийн хэрэгжилтэд ашигласан хэрэгсэл, матери
-алын үнийн
+Underfull \hbox (badness 1052) in paragraph at lines 878--879
+\TU/cmunrm.otf(1)/m/n/12 зураг дамжуулах боломжийн талаар судалж, камерын хянал
+тын хэсгийг
+ []
+
+[26]
+Underfull \hbox (badness 2197) in paragraph at lines 902--903
+\TU/cmunrm.otf(1)/m/n/12 network protocol, communication reliability зэрэг ойлг
+олтыг тайлбарлахад
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 931--932
-\TU/TimesNewRoman(1)/m/n/12 Энэхүү хавсралтад дипломын ажлын явцад худалдан авч
- ашигласан техник хэрэгсэл,
- []
-
-[34]
-Underfull \hbox (badness 1077) in paragraph at lines 1004--1005
-[]\TU/TimesNewRoman(1)/b/n/12 Тайлбар: \TU/TimesNewRoman(1)/m/n/12 Төслийн нийт
- зардал нь 659,000 төгрөг бөгөөд энэ нь зах зээл дээрх
+Underfull \hbox (badness 4569) in paragraph at lines 906--907
+[]\TU/cmunrm.otf(1)/m/n/12 WOPET. \TU/cmunrm.otf(1)/m/it/12 Smart Pet Feeder Pr
+oduct Manual\TU/cmunrm.otf(1)/m/n/12 . App-based pet feeder-ийн
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 1004--1005
-\TU/TimesNewRoman(1)/m/n/12 төхөөрөмжөөр өргөтгөх бол cloud-ын төлбөртэй plan р
-уу шилжих шаардлага гарч
+Underfull \hbox (badness 1742) in paragraph at lines 908--909
+[]\TU/cmunrm.otf(1)/m/n/12 Xiaomi. \TU/cmunrm.otf(1)/m/it/12 Smart Pet Food Fee
+der User Manual\TU/cmunrm.otf(1)/m/n/12 . Smart home ecosystem-тэй
  []
 
-[35] [36]
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
+[27] [28
+
+] [29]
+Underfull \hbox (badness 1320) in paragraph at lines 1043--1043
+[]|\TU/cmunrm.otf(1)/m/n/8 Ижил төрлийн төхөөрөмжүүдийн харьцуулалт, эх
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+[]|\TU/cmunrm.otf(1)/m/n/8 ESP32-CAM-ийн зураг авах, Wi-Fi холболтын
+ []
+
+[30]
+Underfull \hbox (badness 3068) in paragraph at lines 1130--1131
+\TU/cmunrm.otf(1)/m/n/12 Энэ хавсралтад дипломын ажилд хэрэгжүүлсэн системийн ү
+ндсэн эх кодны
+ []
+
+[31] (/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -2039,51 +1925,40 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 1128.
-LaTeX Font Info:    Font shape `TU/CourierNew(1)/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 1128.
-LaTeX Font Info:    Font shape `TU/CourierNew(1)/b/n' will be
-(Font)              scaled to size 8.99994pt on input line 1129.
+nput line 1137.
 
-[37]
-Underfull \hbox (badness 2012) in paragraph at lines 1212--1213
-\TU/TimesNewRoman(1)/m/n/12 ESP32-CAM модуль нь камерын зураг авч Cloudinary cl
-oud руу upload хийх, upload
- []
-
-[38]
-LaTeX Font Info:    Font shape `TU/CourierNew(1)/m/n' will be
-(Font)              scaled to size 11.69994pt on input line 1222.
- [39]
+[32] [33] [34]
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 )
-[40] [41]
+[35] [36]
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-[42] [43] [44] (./main.aux)
+[37]
+Underfull \hbox (badness 4001) in paragraph at lines 1494--1495
+\TU/cmunrm.otf(1)/m/n/12 тасалдал (ойролцоогоор 15 секунд) гарсан бөгөөд ESP32 
+автоматаар дахин
+ []
+
+[38] [39] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 603CDB0A081A2995F2723E89AE8F3729;14827.
  ) 
 Here is how much of TeX's memory you used:
- 30460 strings out of 469709
- 625122 string characters out of 5466024
- 1616764 words of memory out of 5000000
- 58530 multiletter control sequences out of 15000+600000
- 633370 words of font info for 122 fonts, out of 8000000 for 9000
+ 30537 strings out of 469709
+ 627405 string characters out of 5466024
+ 1618661 words of memory out of 5000000
+ 58606 multiletter control sequences out of 15000+600000
+ 633346 words of font info for 119 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  103i,14n,108p,792b,2006s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (57 pages).
+Output written on main.pdf (51 pages).
