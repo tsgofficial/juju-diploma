@@ -1,0 +1,20 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces IoT системийн ерөнхий бүтэц}}{4}{figure.caption.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Ухаалаг тэжээвэр амьтны тэжээгч төхөөрөмжүүдийн жишээ}}{5}{figure.caption.2}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces ESP32 болон ESP32-CAM модулиуд}}{7}{figure.caption.5}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системийн ерөнхий архитектур}}{12}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Stepper мотор ашигласан хоол гаргах механизм}}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Насос мотор ашигласан ус түгээх систем}}{14}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces ESP32-CAM болон web системийн холболт}}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Cloudinary болон Firebase ашигласан зураг хадгалалтын урсгал}}{15}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Firebase Realtime Database-ийн бүтэц}}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Веб системийн үндсэн хэрэглэгчийн интерфейс}}{16}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системийн электрон схем}}{17}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системийн PCB дизайн}}{18}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Төхөөрөмжийн 3D загварын ерөнхий төлөв}}{19}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системийн туршилтын угсралт}}{22}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Firebase дээр хадгалагдсан бодит өгөгдлийн жишээ}}{23}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Хоол гаргах туршилтын үеийн байдал}}{24}{figure.caption.26}%
+\addvspace {10\p@ }

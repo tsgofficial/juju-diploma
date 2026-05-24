@@ -1,0 +1,2089 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.1)  24 MAY 2026 16:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@chapter=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-xetex.de
+f
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count280
+\g__pdfannot_backend_int=\count281
+\g__pdfannot_backend_link_int=\count282
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count283
+\l__fontspec_language_int=\count284
+\l__fontspec_strnum_int=\count285
+\l__fontspec_tmp_int=\count286
+\l__fontspec_tmpa_int=\count287
+\l__fontspec_tmpb_int=\count288
+\l__fontspec_tmpc_int=\count289
+\l__fontspec_em_int=\count290
+\l__fontspec_emdef_int=\count291
+\l__fontspec_strong_int=\count292
+\l__fontspec_strongdef_int=\count293
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/12/01 v2.9 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\l_xpg_alias_keyvals_int=\count295
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/polyglossia/gloss-mongolian.
+ldf
+File: gloss-mongolian.ldf polyglossia: module for Mongolian
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/polyglossia/xpg-cyrillicnumb
+ers.sty
+Package: xpg-cyrillicnumbers 2019/11/15 v0.2 Formatting of Cyrillic alphabetic 
+numbers
+)
+
+Package polyglossia Warning: No hyphenation patterns were loaded for
+(polyglossia)                `mongolian'
+(polyglossia)                I will use \language=\l@nohyphenation instead.
+
+\l@mongolian = a dialect from \language\l@nohyphenation 
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/polyglossia/babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 72.
+)
+
+Package polyglossia Info: Default language is mongolian
+
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/polyglossia/gloss-english.ld
+f
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+
+Package fontspec Info: 
+(fontspec)             Courier New scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New/B scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New/I scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New/BI scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Scale=0.9].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[0.9]"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[0.9]"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[0.9]"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9]"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Helvetica(0)' created for font 'Helvetica'
+(fontspec)             with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Helvetica/AAT"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Helvetica/B/AAT"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Helvetica/I/AAT"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Helvetica/BI/AAT"
+
+
+Package fontspec Info: 
+(fontspec)             Courier New scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New/B scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New/I scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Courier New/BI scale = 0.9.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(1)' created for font 'Courier
+(fontspec)             New' with options [Scale=0.9].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[0.9]"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[0.9]"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[0.9]"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9]"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen162
+\ar@mcellbox=\box53
+\extrarowheight=\dimen163
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen164
+\TX@old@table=\dimen165
+\TX@old@col=\dimen166
+\TX@target=\dimen167
+\TX@delta=\dimen168
+\TX@cols=\count299
+\TX@ftn=\toks20
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip53
+\RaggedLeftLeftskip=\skip54
+\RaggedRightLeftskip=\skip55
+\CenteringRightskip=\skip56
+\RaggedLeftRightskip=\skip57
+\RaggedRightRightskip=\skip58
+\CenteringParfillskip=\skip59
+\RaggedLeftParfillskip=\skip60
+\RaggedRightParfillskip=\skip61
+\JustifyingParfillskip=\skip62
+\CenteringParindent=\skip63
+\RaggedLeftParindent=\skip64
+\RaggedRightParindent=\skip65
+\JustifyingParindent=\skip66
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip67
+\cftbeforetoctitleskip=\skip68
+\cftaftertoctitleskip=\skip69
+\cftbeforepartskip=\skip70
+\cftpartnumwidth=\skip71
+\cftpartindent=\skip72
+\cftbeforechapskip=\skip73
+\cftchapindent=\skip74
+\cftchapnumwidth=\skip75
+\cftbeforesecskip=\skip76
+\cftsecindent=\skip77
+\cftsecnumwidth=\skip78
+\cftbeforesubsecskip=\skip79
+\cftsubsecindent=\skip80
+\cftsubsecnumwidth=\skip81
+\cftbeforesubsubsecskip=\skip82
+\cftsubsubsecindent=\skip83
+\cftsubsubsecnumwidth=\skip84
+\cftbeforeparaskip=\skip85
+\cftparaindent=\skip86
+\cftparanumwidth=\skip87
+\cftbeforesubparaskip=\skip88
+\cftsubparaindent=\skip89
+\cftsubparanumwidth=\skip90
+\cftbeforeloftitleskip=\skip91
+\cftafterloftitleskip=\skip92
+\cftbeforefigskip=\skip93
+\cftfigindent=\skip94
+\cftfignumwidth=\skip95
+\c@lofdepth=\count300
+\c@lotdepth=\count301
+\cftbeforelottitleskip=\skip96
+\cftafterlottitleskip=\skip97
+\cftbeforetabskip=\skip98
+\cfttabindent=\skip99
+\cfttabnumwidth=\skip100
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip101
+\aftertitleunit=\skip102
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks21
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip103
+\f@nch@offset@elh=\skip104
+\f@nch@offset@erh=\skip105
+\f@nch@offset@olh=\skip106
+\f@nch@offset@orh=\skip107
+\f@nch@offset@elf=\skip108
+\f@nch@offset@erf=\skip109
+\f@nch@offset@olf=\skip110
+\f@nch@offset@orf=\skip111
+\f@nch@height=\skip112
+\f@nch@footalignment=\skip113
+\f@nch@widthL=\skip114
+\f@nch@widthC=\skip115
+\f@nch@widthR=\skip116
+\@temptokenb=\toks22
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen174
+\c@nlinenum=\count302
+\TeXr@lab=\toks23
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip117
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen175
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen176
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count303
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count304
+\leftroot@=\count305
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count306
+\DOTSCASE@=\count307
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen177
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count308
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count309
+\dotsspace@=\muskip17
+\c@parentequation=\count310
+\dspbrk@lvl=\count311
+\tag@help=\toks25
+\row@=\count312
+\column@=\count313
+\maxfields@=\count314
+\andhelp@=\toks26
+\eqnshift@=\dimen178
+\alignsep@=\dimen179
+\tagshift@=\dimen180
+\tagwidth@=\dimen181
+\totwidth@=\dimen182
+\lineht@=\dimen183
+\@envbody=\toks27
+\multlinegap=\skip118
+\multlinetaggap=\skip119
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip120
+\multirow@cntb=\count315
+\multirow@dima=\skip121
+\bigstrutjot=\dimen184
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen185
+\captionmargin=\dimen186
+\caption@leftmargin=\dimen187
+\caption@rightmargin=\dimen188
+\caption@width=\dimen189
+\caption@indent=\dimen190
+\caption@parindent=\dimen191
+\caption@hangindent=\dimen192
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count316
+\c@continuedfloat=\count317
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip122
+\LTright=\skip123
+\LTpre=\skip124
+\LTpost=\skip125
+\LTchunksize=\count318
+\LTcapwidth=\dimen193
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count319
+\LT@rows=\count320
+\c@LT@tables=\count321
+\c@LT@chunks=\count322
+\LT@p@ftn=\toks29
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen194
+\lightrulewidth=\dimen195
+\cmidrulewidth=\dimen196
+\belowrulesep=\dimen197
+\belowbottomsep=\dimen198
+\aboverulesep=\dimen199
+\abovetopsep=\dimen256
+\cmidrulesep=\dimen257
+\cmidrulekern=\dimen258
+\defaultaddspace=\dimen259
+\@cmidla=\count323
+\@cmidlb=\count324
+\@aboverulesep=\dimen260
+\@belowrulesep=\dimen261
+\@thisruleclass=\count325
+\@lastruleclass=\count326
+\@thisrulewidth=\dimen262
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip126
+\enit@outerparindent=\dimen263
+\enit@toks=\toks30
+\enit@inbox=\box63
+\enit@count@id=\count327
+\enitdp@description=\count328
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count329
+\float@exts=\toks31
+\float@box=\box64
+\@float@everytoks=\toks32
+\@floatcapt=\box65
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count330
+\lst@gtempboxa=\box66
+\lst@token=\toks33
+\lst@length=\count331
+\lst@currlwidth=\dimen264
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen265
+\lst@width=\dimen266
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen267
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
+\lst@framebox=\box67
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgfgantt/pgfgantt.sty
+Package: pgfgantt 2024/06/19 v5.0a Draw Gantt diagrams with TikZ
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
+on.tex
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen268
+\pgfutil@tempdimb=\dimen269
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfutil-late
+x.def
+\pgfutil@abb=\box68
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.
+tex (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty 
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.cod
+e.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
+.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibra
+ryfiltered.code.tex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen270
+\pgf@y=\dimen271
+\pgf@xa=\dimen272
+\pgf@ya=\dimen273
+\pgf@xb=\dimen274
+\pgf@yb=\dimen275
+\pgf@xc=\dimen276
+\pgf@yc=\dimen277
+\pgf@xd=\dimen278
+\pgf@yd=\dimen279
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count338
+\c@pgf@countb=\count339
+\c@pgf@countc=\count340
+\c@pgf@countd=\count341
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count342
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xet
+ex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvi
+pdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-com
+mon-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count343
+)))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoft
+path.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count344
+\pgfsyssoftpath@bigbuffer@items=\count345
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprot
+ocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.cod
+e.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.
+tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathparser.cod
+e.tex
+\pgfmath@dimen=\dimen280
+\pgfmath@count=\count346
+\pgfmath@box=\box69
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+basic.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+trigonometric.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+random.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+comparison.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+base.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+round.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+misc.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.
+integerarithmetics.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.
+tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code
+.tex
+\c@pgfmathroundto@lastzeros=\count347
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoin
+ts.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen281
+\pgf@picmaxx=\dimen282
+\pgf@picminy=\dimen283
+\pgf@picmaxy=\dimen284
+\pgf@pathminx=\dimen285
+\pgf@pathmaxx=\dimen286
+\pgf@pathminy=\dimen287
+\pgf@pathmaxy=\dimen288
+\pgf@xx=\dimen289
+\pgf@xy=\dimen290
+\pgf@yx=\dimen291
+\pgf@yy=\dimen292
+\pgf@zx=\dimen293
+\pgf@zy=\dimen294
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
+construct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen295
+\pgf@path@lasty=\dimen296
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
+usage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen297
+\pgf@shorten@start@additional=\dimen298
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescop
+es.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box70
+\pgf@hbox=\box71
+\pgf@layerbox@main=\box72
+\pgf@picture@serial@count=\count348
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregrap
+hicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen299
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretran
+sformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen300
+\pgf@pt@y=\dimen301
+\pgf@pt@temp=\dimen302
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequic
+k.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobje
+cts.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepath
+processing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearro
+ws.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen303
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshad
+e.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen304
+\pgf@sys@shading@range@num=\count349
+\pgf@shadingcount=\count350
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimag
+e.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexte
+rnal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box73
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelaye
+rs.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretran
+sparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatt
+erns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.
+code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/modules/pgfmoduleshape
+s.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box74
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.
+code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-ve
+rsion-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen305
+\pgf@nodesepend=\dimen306
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-ve
+rsion-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
+.tex)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgffor.code.
+tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen307
+\pgffor@skip=\dimen308
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tik
+z.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/libraries/pgflibrarypl
+othandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count351
+\pgfplotmarksize=\dimen309
+)
+\tikz@lastx=\dimen310
+\tikz@lasty=\dimen311
+\tikz@lastxsaved=\dimen312
+\tikz@lastysaved=\dimen313
+\tikz@lastmovetox=\dimen314
+\tikz@lastmovetoy=\dimen315
+\tikzleveldistance=\dimen316
+\tikzsiblingdistance=\dimen317
+\tikz@figbox=\box75
+\tikz@figbox@bg=\box76
+\tikz@tempbox=\box77
+\tikz@tempbox@bg=\box78
+\tikztreelevel=\count352
+\tikznumberofchildren=\count353
+\tikznumberofcurrentchild=\count354
+\tikz@fig@count=\count355
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/modules/pgfmodulematri
+x.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count356
+\pgfmatrixcurrentcolumn=\count357
+\pgf@matrix@numberofcolumns=\count358
+)
+\tikz@expandcount=\count359
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/libraries/pgflibraryar
+rows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen318
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box79
+\pgf@layerboxsaved@background=\box80
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/libraries/pgflibrarypa
+tterns.code.tex
+File: pgflibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/lib
+raries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/libraries/shapes/pgfli
+braryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/utilities/pgfcalendar.st
+y
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.
+code.tex
+File: pgfcalendar.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfcalendarcurrentjulian=\count360
+\pgf@cal@easter@Y=\count361
+\pgf@cal@easter@G=\count362
+\pgf@cal@easter@C=\count363
+\pgf@cal@easter@X=\count364
+\pgf@cal@easter@Z=\count365
+\pgf@cal@easter@D=\count366
+\pgf@cal@easter@E=\count367
+\pgf@cal@easter@N=\count368
+\pgf@cal@easter@M=\count369
+\pgf@cal@easter@julianday=\count370
+))
+\gtt@currentline=\count371
+\gtt@lasttitleline=\count372
+\gtt@currgrid=\count373
+\gtt@chartwidth=\count374
+\gtt@lasttitleslot=\count375
+\gtt@elementid=\count376
+\gtt@today@slot=\count377
+\gtt@startjulian=\count378
+\gtt@endjulian=\count379
+\gtt@chartid=\count380
+\gtt@vrule@slot=\count381
+\gtt@calendar@slots=\count382
+\gtt@calendar@weeknumber=\count383
+\gtt@calendar@startofweek=\count384
+\gtt@left@slot=\count385
+\gtt@right@slot=\count386
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks46
+\AP@partial=\box81
+\AP@footins=\box82
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count387
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen319
+\Hy@linkcounter=\count388
+\Hy@pagecounter=\count389
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count390
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count391
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen320
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count392
+\Field@Width=\dimen321
+\Fld@charsize=\dimen322
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count393
+\c@Item=\count394
+\c@Hfootnote=\count395
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
+\pdfm@box=\box83
+\c@Hy@AnnotLevel=\count396
+\HyField@AnnotCount=\count397
+\Fld@listcount=\count398
+\c@bookmark@seq@number=\count399
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2026basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip127
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 67.
+ (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 169.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 169.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 169.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 169.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 169.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 169.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 169.
+LaTeX Font Info:    Redeclaring math accent \check on input line 169.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 169.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 169.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 169.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 169.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 169.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
+69.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 169.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+169.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 169.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 169.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+169.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 169.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 169
+.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 169.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 169.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 169.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 169
+.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count400
+Package hyperref Info: Link coloring OFF on input line 169.
+
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+File: must_logo.png Graphic file (type bmp)
+<must_logo.png>
+ [1
+
+] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
+
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 252--253
+\TU/TimesNewRoman(1)/m/n/10.95 web интерфейсээр алсаас удирдах боломжтой IoT-д 
+суурилсан ухаалаг систем боловсруулахад
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+[1] [2]
+Underfull \hbox (badness 4391) in paragraph at lines 304--311
+\TU/TimesNewRoman(1)/m/n/12 Сэдвийн монгол нэр: ``IoT технологид суурилсан гэри
+йн тэжээвэр амьтны ухаалаг
+ []
+
+
+Overfull \hbox (5.30367pt too wide) in paragraph at lines 322--322
+ []|\TU/TimesNewRoman(1)/b/n/12 Гүйцэтгэлийн 
+ []
+
+
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 322--323
+[][] 
+ []
+
+[3]
+Underfull \hbox (badness 4279) in paragraph at lines 345--346
+\TU/TimesNewRoman(1)/m/n/12 Миний бие Е.Жанна, ``IoT технологид суурилсан гэрий
+н тэжээвэр амьтны ухаалаг
+ []
+
+[1
+
+]
+Underfull \hbox (badness 2343) in paragraph at lines 374--375
+\TU/TimesNewRoman(1)/m/n/12 Firebase status update, web interface-ийн ажиллагаа
+г туршсан. Туршилтын үр дүнгээс
+ []
+
+[2]
+Underfull \hbox (badness 2401) in paragraph at lines 388--389
+\TU/TimesNewRoman(1)/m/n/12 Тэдний дэмжлэг нь төхөөрөмжийн туршилт, бичвэрийн б
+оловсруулалт, хамгаалалтын
+ []
+
+[3] [4] (./main.toc [5])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [6] (./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [7
+
+] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [8
+
+]
+Бүлэг 1.
+[1
+
+
+] [2]
+Underfull \hbox (badness 3746) in paragraph at lines 446--447
+[]\TU/TimesNewRoman(1)/m/n/12 Төслийн үндсэн асуудлыг дараах байдлаар тодорхойл
+сон. Нэгдүгээрт, тэжээвэр
+ []
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 446--447
+\TU/TimesNewRoman(1)/m/n/12 амьтанд хоол өгөх ажиллагааг тогтмол, давтагдах бол
+омжтой болгох шаардлагатай.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
+\TU/TimesNewRoman(1)/m/n/12 Хоёрдугаарт, ус өгөх үйлдлийг хоолноос тусдаа удирд
+ах хэрэгтэй. Гуравдугаарт,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
+\TU/TimesNewRoman(1)/m/n/12 нэмэгдүүлнэ. Дөрөвдүгээрт, web интерфейс болон clou
+d өгөгдлийн сан ашиглан
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+[]\TU/TimesNewRoman(1)/m/n/12 ESP32, ESP32-CAM, stepper мотор, насос, RTC, Fire
+base, Cloudinary зэрэг
+ []
+
+[3]
+Underfull \hbox (badness 1424) in paragraph at lines 466--467
+\TU/TimesNewRoman(1)/m/n/12 болон удирдлагын өгөгдлийг цуглуулах, дамжуулах, бо
+ловсруулах, хэрэглэгчид хүргэх
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 468--469
+[]\TU/TimesNewRoman(1)/m/n/12 Энэхүү төслийн хувьд мэдрэх болон хяналтын хэсэгт
+ ESP32-CAM, RTC болон
+ []
+
+File: iot_structure.png Graphic file (type bmp)
+<iot_structure.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+[]\TU/TimesNewRoman(1)/m/n/12 IoT системийн гол онцлог нь төхөөрөмжүүд хоорондо
+о өгөгдөл солилцож,
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 472--473
+\TU/TimesNewRoman(1)/m/n/12 оршино. Энэ төслийн хувьд хэрэглэгч гэртээ байхгүй 
+байсан ч web интерфейсээр
+ []
+
+[4]
+File: pet_feeder_examples.png Graphic file (type bmp)
+<pet_feeder_examples.png>
+
+Underfull \hbox (badness 1874) in paragraph at lines 480--481
+[]\TU/TimesNewRoman(1)/m/n/12 Гэвч эдгээр төхөөрөмжүүдийг судлахад хэд хэдэн ни
+йтлэг сул тал ажиглагдсан.
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 480--481
+\TU/TimesNewRoman(1)/m/n/12 Нэгдүгээрт, commercial төхөөрөмжүүд ихэвчлэн хаалтт
+ай ecosystem-той байдаг тул
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 480--481
+\TU/TimesNewRoman(1)/m/n/12 зарим төхөөрөмж зөвхөн хоол өгөх функцтэй бөгөөд ус
+ны систем тусдаа байдаг.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
+[]|\TU/TimesNewRoman(1)/m/n/8 Зөвхөн цагийн тохиргоотой,
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 493--493
+[]|\TU/TimesNewRoman(1)/m/n/8 Хаалттай платформтой, өөрчлөх
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 493--493
+[]|\TU/TimesNewRoman(1)/m/n/8 Цаашид механик корпус болон
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
+\TU/TimesNewRoman(1)/m/n/8 мэдрэгчийн хэмжилтийг нэмэх
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Сурахад хялбар, олон
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 жишээтэй, GPIO удирдахад
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 хийхэд нэмэлт модуль
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Зөвхөн энгийн мотор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 удирдлагад тохиромжтой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 GPIO хязгаарлагдмал,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 камерын тусдаа шийдэл
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Энгийн web control
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 хийхэд боломжтой боловч
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 олон хэсэгтэй системд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Wi-Fi/Bluetooth дэмждэг,
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 GPIO олон, гүйцэтгэл сайн,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Power болон pin зохион
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 байгуулалтыг зөв хийх
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Энэ төслийн үндсэн
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 удирдлагад хамгийн
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 орчинтой, камер болон web
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Өртөг өндөр, power хэрэглээ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 их, жижиг embedded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 төхөөрөмжид хэт томдож
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/TimesNewRoman(1)/m/n/8 Судалгааны сервер талд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 боломжтой боловч энэ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+\TU/TimesNewRoman(1)/m/n/8 системийн төв удирдлагад
+ []
+
+File: esp32_cam.png Graphic file (type bmp)
+<esp32_cam.png>
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Өнцгөөр удирдахад
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 энгийн, жижиг механизмд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Эргэлтийн хязгаарлагдмал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 өнцөгтэй, ачаалал их үед
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Энгийн хаалт нээхэд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 боломжтой боловч хоолны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Эргэлт хурдан, үнэ хямд,
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Байрлалын нарийвчлал бага,
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 эргэлтийн хэмжээг feedback-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Хоол гаргах хэмжээг
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 тогтвортой болгоход нэмэлт
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Алхамчилсан удирдлагатай,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 эргэлтийн хэмжээг илүү
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/TimesNewRoman(1)/m/n/8 Энэ төслийн хоол гаргах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\TU/TimesNewRoman(1)/m/n/8 механизмд хамгийн
+ []
+
+[7]
+Underfull \hbox (badness 1132) in paragraph at lines 549--550
+\TU/TimesNewRoman(1)/m/n/12 Энэ төслийн нэг чухал хэсэг нь төхөөрөмжийн мэдээлл
+ийг web interface болон cloud
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 551--552
+[]\TU/TimesNewRoman(1)/m/n/12 Firebase Realtime Database-ийг сонгосон шалтгаан 
+нь өгөгдөл realtime байдлаар
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/TimesNewRoman(1)/m/n/12 Command, status, URL,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\TU/TimesNewRoman(1)/m/n/12 timestamp зэрэг realtime
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 565--565
+[]|\TU/TimesNewRoman(1)/m/n/12 Текст, тоо, boolean, URL,
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 565--565
+[]|\TU/TimesNewRoman(1)/m/n/12 Зураг, video болон media
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/TimesNewRoman(1)/m/n/12 ESP32-CAM-аас авсан
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/TimesNewRoman(1)/m/n/12 Realtime update хийхэд
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\TU/TimesNewRoman(1)/m/n/12 Зураг хадгалах, URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--571
+\TU/TimesNewRoman(1)/m/n/12 Энэхүү бүлэгт IoT системийн онолын үндэс, тэжээвэр 
+амьтны ухаалаг тэжээгч
+ []
+
+[8]
+Бүлэг 2.
+[9
+
+] [10]
+Underfull \hbox (badness 1859) in paragraph at lines 578--579
+\TU/TimesNewRoman(1)/m/n/12 Системийн зохион байгуулалтыг боловсруулахдаа хэрэг
+лэгчийн бодит хэрэгцээ болон
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+[]|\TU/TimesNewRoman(1)/m/n/8 ESP32-CAM зураг авч Cloudinary-д хадгалж, web дээ
+р
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 593--593
+[]|\TU/TimesNewRoman(1)/m/n/8 Firebase Realtime Database-д command, status, fra
+me URL,
+ []
+
+File: system_architecture.png Graphic file (type bmp)
+<system_architecture.png>
+[11]
+LaTeX Font Info:    Font shape `TU/CourierNew(1)/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 602.
+
+Underfull \hbox (badness 4765) in paragraph at lines 622--622
+[]|\TU/TimesNewRoman(1)/m/n/8 Камерын зураг авах, Cloudinary руу frame upload х
+ийх,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\TU/TimesNewRoman(1)/m/n/8 Хоол гаргах механизмыг алхамчилсан хөдөлгөөнөөр
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 622--622
+[]|\TU/TimesNewRoman(1)/m/n/8 Цагийн хуваарьтай автомат хооллолтын үед бодит ца
+гийн
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 622--622
+[]|\TU/TimesNewRoman(1)/m/n/8 Command, status, frame URL, timestamp зэрэг өгөгд
+лийг
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 627--628
+\TU/TimesNewRoman(1)/m/n/12 савны налуу, бөглөрөх магадлал, моторын эргэх хүч, 
+давталтын тогтвортой байдлыг
+ []
+
+[12]
+File: stepper_motor.jpg Graphic file (type bmp)
+<stepper_motor.jpg>
+
+Underfull \hbox (badness 2035) in paragraph at lines 633--634
+\TU/TimesNewRoman(1)/m/n/12 хугацаанд ажиллаж, усны савнаас усыг амьтны уух хэс
+эг рүү шахаж гаргана. Усны
+ []
+
+File: water_system.png Graphic file (type bmp)
+<water_system.png>
+[13]
+File: cloudinary.png Graphic file (type bmp)
+<cloudinary.png>
+File: cloudinary_firebase_flow.png Graphic file (type bmp)
+<cloudinary_firebase_flow.png>
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 664--664
+[]|\TU/TimesNewRoman(1)/m/n/8 ESP32-CAM модулийн сүлжээнд холбогдсон IP хаягийг
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 664--664
+[]|\TU/TimesNewRoman(1)/m/n/8 Хэрэглэгчийн web interface-ээс өгсөн feed эсвэл d
+rink
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 664--664
+[]|\TU/TimesNewRoman(1)/m/n/8 Cloudinary дээр хадгалагдсан хамгийн сүүлийн каме
+рын
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 664--664
+[]|\TU/TimesNewRoman(1)/m/n/8 Хамгийн сүүлд зураг авсан хугацааны timestamp утг
+ыг
+ []
+
+File: firebase.png Graphic file (type bmp)
+<firebase.png>
+[15]
+File: web.png Graphic file (type bmp)
+<web.png>
+
+Underfull \hbox (badness 3354) in paragraph at lines 697--697
+[]|\TU/TimesNewRoman(1)/m/n/8 Firebase-ийн \TU/CourierNew(1)/m/n/8 command \TU/
+TimesNewRoman(1)/m/n/8 утгыг feed action болгон өөрчилж,
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 697--697
+[]|\TU/TimesNewRoman(1)/m/n/8 Firebase-ийн \TU/CourierNew(1)/m/n/8 command \TU/
+TimesNewRoman(1)/m/n/8 утгыг drink action болгон өөрчилж,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--697
+[]|\TU/TimesNewRoman(1)/m/n/8 Тэжээвэр амьтны хооллолт, усны хэрэглээ, арчилгаа
+ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
+[]|\TU/TimesNewRoman(1)/m/n/8 Stepper motor-ийн алхамчилсан эргэлтийн дарааллыг
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
+[]|\TU/TimesNewRoman(1)/m/n/8 ESP32, driver, насос, RTC-ийн нийтлэг ground боло
+н
+ []
+
+File: pet_shem.png Graphic file (type bmp)
+<pet_shem.png>
+[16]
+Underfull \hbox (badness 1436) in paragraph at lines 721--722
+\TU/TimesNewRoman(1)/m/n/12 Breadboard дээр туршилт хийх нь эхний шатанд тохиро
+мжтой боловч олон утас, сул
+ []
+
+File: pcb.png Graphic file (type bmp)
+<pcb.png>
+[17]
+Underfull \hbox (badness 4254) in paragraph at lines 727--728
+\TU/TimesNewRoman(1)/m/n/12 Төхөөрөмжийн гаднах корпус нь зөвхөн үзэмжийн элеме
+нт биш, харин системийн
+ []
+
+File: 3d.jpg Graphic file (type bmp)
+<3d.jpg>
+[18] [19]
+Бүлэг 3.
+[20
+
+] [21]
+File: prototype_setup.png Graphic file (type bmp)
+<prototype_setup.png>
+ [22]
+File: firebase.png Graphic file (type bmp)
+<firebase.png>
+File: hoollolt.png Graphic file (type bmp)
+<hoollolt.png>
+ [23]
+Underfull \hbox (badness 1005) in paragraph at lines 783--784
+\TU/TimesNewRoman(1)/m/n/12 Камерын туршилтаар ESP32-CAM зураг авч, Cloudinary-
+д хадгалж, URL нь Firebase-д
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 Stepper motor ажиллаж хоол гаргах
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 Хоол гаргах механизм ажиллаж, feed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 Насос ажиллаж, ус жигд урсгалтай
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 ESP32-CAM зураг авч Cloudinary-д
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 Frame URL болон command/status
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 Хэрэглэгч camera frame болон status
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
+[]|\TU/TimesNewRoman(1)/m/n/8 Web interface дээр зураг болон
+ []
+
+[24]
+Underfull \hbox (badness 1057) in paragraph at lines 819--820
+\TU/TimesNewRoman(1)/m/n/12 бөгөөд зурагны URL Firebase-д бүртгэгдсэн. Web inte
+rface нь Firebase-ийн мэдээллийг
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 823--824
+\TU/TimesNewRoman(1)/m/n/12 бүрэн хэрэгжсэн prototype гэж үзэж болох бөгөөд цаа
+шид бүтээгдэхүүний түвшинд
+ []
+
+[25]
+Бүлэг 4.
+[26
+
+] [27]
+Underfull \hbox (badness 1158) in paragraph at lines 831--832
+\TU/TimesNewRoman(1)/m/n/12 Энэхүү дипломын ажлын хүрээнд IoT технологид суурил
+сан гэрийн тэжээвэр амьтны
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 831--832
+\TU/TimesNewRoman(1)/m/n/12 хэсэгт IoT системийн үндсэн ойлголт, ухаалаг тэжээг
+ч төхөөрөмжүүдийн хэрэглээ,
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 833--834
+[]\TU/TimesNewRoman(1)/m/n/12 Cloud шийдлийн хувьд Firebase Realtime Database б
+олон Cloudinary-г хамтад нь
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 837--838
+\TU/TimesNewRoman(1)/m/n/12 Энэхүү системийн онцлог нь зөвхөн автомат хоол өгөх
+ төхөөрөмж хийхэд бус, олон
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 855--856
+\TU/TimesNewRoman(1)/m/n/12 бүрийн үндэслэлийг харьцуулж гаргасан, зохион байгу
+улалтын хэсэгт hardware, cloud,
+ []
+
+[28] [29] [30
+
+]
+Underfull \hbox (badness 2173) in paragraph at lines 865--866
+[]\TU/TimesNewRoman(1)/m/n/12 Espressif Systems. \TU/TimesNewRoman(1)/m/it/12 E
+SP32 Technical Reference Manual\TU/TimesNewRoman(1)/m/n/12 . Espressif Systems.
+ Энэхүү
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 865--866
+\TU/TimesNewRoman(1)/m/n/12 эх сурвалжаас ESP32 микроконтроллерийн architecture
+, peripheral, GPIO болон
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 867--868
+[]\TU/TimesNewRoman(1)/m/n/12 Espressif Systems. \TU/TimesNewRoman(1)/m/it/12 E
+SP32 Series Datasheet\TU/TimesNewRoman(1)/m/n/12 . Espressif Systems. ESP32-ийн
+ Wi-
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 867--868
+\TU/TimesNewRoman(1)/m/n/12 Fi/Bluetooth, operating voltage, GPIO боломж болон 
+IoT төхөөрөмжид ашиглах
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 879--880
+\TU/TimesNewRoman(1)/m/n/12 болгон ашиглах, зураг хадгалалт болон asset managem
+ent-ийн үндсэн ойлголтыг
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 883--884
+[]\TU/TimesNewRoman(1)/m/n/12 Schwartz, M. \TU/TimesNewRoman(1)/m/it/12 Interne
+t of Things with ESP8266\TU/TimesNewRoman(1)/m/n/12 . Packt Publishing. Wi-Fi e
+nabled
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 883--884
+\TU/TimesNewRoman(1)/m/n/12 microcontroller ашиглан IoT төхөөрөмж хөгжүүлэх үнд
+сэн зарчим, web/cloud
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 887--888
+[]\TU/TimesNewRoman(1)/m/n/12 Ashton, K. ``That Internet of Things Thing.'' \TU
+/TimesNewRoman(1)/m/it/12 RFID Journal\TU/TimesNewRoman(1)/m/n/12 , 2009. IoT о
+йлголтын
+ []
+
+[31]
+Underfull \hbox (badness 1681) in paragraph at lines 889--890
+[]\TU/TimesNewRoman(1)/m/n/12 Al-Fuqaha, A., Guizani, M., Mohammadi, M., Aledha
+ri, M., Ayyash, M. ``Internet
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 889--890
+\TU/TimesNewRoman(1)/m/n/12 of Things: A Survey on Enabling Technologies, Proto
+cols, and Applications.'' \TU/TimesNewRoman(1)/m/it/12 IEEE
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 891--892
+[]\TU/TimesNewRoman(1)/m/n/12 Kurose, J. F., Ross, K. W. \TU/TimesNewRoman(1)/m
+/it/12 Computer Networking: A Top-Down Approach\TU/TimesNewRoman(1)/m/n/12 . Pe
+arson.
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 897--898
+[]\TU/TimesNewRoman(1)/m/n/12 WOPET. \TU/TimesNewRoman(1)/m/it/12 Smart Pet Fee
+der Product Manual\TU/TimesNewRoman(1)/m/n/12 . App-based pet feeder-ийн camera
+,
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 903--904
+[]\TU/TimesNewRoman(1)/m/n/12 Norman, D. \TU/TimesNewRoman(1)/m/it/12 The Desig
+n of Everyday Things\TU/TimesNewRoman(1)/m/n/12 . Basic Books. Web interface бо
+лон
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 903--904
+\TU/TimesNewRoman(1)/m/n/12 төхөөрөмжийн хэрэглэгчдэд ойлгомжтой, хэрэглэхэд хя
+лбар байх UX санааг
+ []
+
+[32] [33
+
+]
+Underfull \hbox (badness 8019) in paragraph at lines 929--929
+|[]\TU/TimesNewRoman(1)/b/n/14.4 Төслийн хэрэгжилтэд ашигласан хэрэгсэл, матери
+алын үнийн
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 931--932
+\TU/TimesNewRoman(1)/m/n/12 Энэхүү хавсралтад дипломын ажлын явцад худалдан авч
+ ашигласан техник хэрэгсэл,
+ []
+
+[34]
+Underfull \hbox (badness 1077) in paragraph at lines 1004--1005
+[]\TU/TimesNewRoman(1)/b/n/12 Тайлбар: \TU/TimesNewRoman(1)/m/n/12 Төслийн нийт
+ зардал нь 659,000 төгрөг бөгөөд энэ нь зах зээл дээрх
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 1004--1005
+\TU/TimesNewRoman(1)/m/n/12 төхөөрөмжөөр өргөтгөх бол cloud-ын төлбөртэй plan р
+уу шилжих шаардлага гарч
+ []
+
+[35] [36]
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 1128.
+LaTeX Font Info:    Font shape `TU/CourierNew(1)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 1128.
+LaTeX Font Info:    Font shape `TU/CourierNew(1)/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 1129.
+
+[37]
+Underfull \hbox (badness 2012) in paragraph at lines 1212--1213
+\TU/TimesNewRoman(1)/m/n/12 ESP32-CAM модуль нь камерын зураг авч Cloudinary cl
+oud руу upload хийх, upload
+ []
+
+[38]
+LaTeX Font Info:    Font shape `TU/CourierNew(1)/m/n' will be
+(Font)              scaled to size 11.69994pt on input line 1222.
+ [39]
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+[40] [41]
+(/usr/local/texlive/2026basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+[42] [43] [44] (./main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 603CDB0A081A2995F2723E89AE8F3729;14827.
+ ) 
+Here is how much of TeX's memory you used:
+ 30460 strings out of 469709
+ 625122 string characters out of 5466024
+ 1616764 words of memory out of 5000000
+ 58530 multiletter control sequences out of 15000+600000
+ 633370 words of font info for 122 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 103i,14n,108p,792b,2006s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (57 pages).

@@ -1,0 +1,27 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Ухаалаг тэжээгч төхөөрөмжүүдийн харьцуулалт}}{5}{table.caption.3}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Микроконтроллер болон embedded платформын харьцуулалт}}{6}{table.caption.4}%
+\contentsline {table}{\numberline {1.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Хоол гаргах механизмд ашиглаж болох моторуудын харьцуулалт}}{7}{table.caption.6}%
+\contentsline {table}{\numberline {1.4}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Firebase болон Cloudinary ашиглах үндэслэл}}{8}{table.caption.7}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системийн функциональ шаардлагууд}}{11}{table.caption.8}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системд ашигласан үндсэн бүрэлдэхүүн хэсгүүд}}{12}{table.caption.10}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Firebase Realtime Database-д хадгалагдах өгөгдлийн бүтэц}}{15}{table.caption.15}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Web интерфейсийн үндсэн функцууд}}{16}{table.caption.18}%
+\contentsline {table}{\numberline {2.5}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces ESP32 болон төхөөрөмжүүдийн холболтын ерөнхий pin зураглал}}{16}{table.caption.19}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Туршилтын үндсэн шалгуур үзүүлэлтүүд}}{23}{table.caption.25}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Feed болон drink command-ийн туршилтын үр дүн}}{24}{table.caption.27}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Системийн давуу тал ба сайжруулах боломж}}{25}{table.caption.28}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Электрон бүрэлдэхүүн хэсгүүдийн үнийн судалгаа}}{34}{table.caption.31}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Механик болон корпус хийх материалын үнийн судалгаа}}{34}{table.caption.32}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces PCB хийгдэх болон бусад үйлчилгээний үнэ}}{34}{table.caption.33}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Төслийн нийт зардлын нэгтгэл}}{35}{table.caption.34}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Төслийн ажлын үе шатны хугацааны тооцоо}}{35}{table.caption.35}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces ESP32 микроконтроллерийн техникийн үзүүлэлт}}{36}{table.caption.36}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces ESP32-CAM модулийн техникийн үзүүлэлт}}{36}{table.caption.37}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces 28BYJ-48 Stepper моторын техникийн үзүүлэлт}}{36}{table.caption.38}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Feed командын туршилтын дэлгэрэнгүй үр дүн}}{43}{table.caption.39}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Camera frame upload-ийн туршилтын үр дүн}}{43}{table.caption.40}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces \xpg@aux {}{mongolian}\ignorespaces Wi-Fi холболтын 24 цагийн ажиглалт}}{43}{table.caption.41}%
